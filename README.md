@@ -7,5 +7,6 @@ Before using any methods JWT token need to be generated (1) and inserted in "Aut
 ! In case of Postman "Bearer " need to be removed before Token.
 
 In-Memory Database used, so File need to be created first (3).
+Also no need to publish Api anywhere, can run locally.
 
 After that any other methods can be used.
