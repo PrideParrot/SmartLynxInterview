@@ -12,3 +12,5 @@ Before using any methods JWT token need to be generated (1) and inserted in "Aut
 In-Memory Database used, so File need to be created first (3).
 
 Also no need to publish Api anywhere, can run locally.
+
+P.s. I am too lazy to create junk Azure/AWS account or pay just for that :)
