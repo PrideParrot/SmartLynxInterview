@@ -13,4 +13,5 @@ In-Memory Database used, so File need to be created first (3).
 
 Also no need to publish Api anywhere, can run locally.
 
-P.s. I am too lazy to create junk Azure/AWS account or pay just for that :)
+P.s.: I am too lazy to create junk Azure/AWS account or pay just for that :)
+P.s.s.: Async/await not used, just to make code easy to read. But, yes Async/await is good practice to use.
